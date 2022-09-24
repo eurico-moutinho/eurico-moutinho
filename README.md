@@ -18,6 +18,7 @@
 <h2></h2>
 
 ### 💬 Get in Touch
+[<img align="left" alt="Personal" width="26px" src="https://cdns.iconmonstr.com/wp-content/releases/preview/2012/240/iconmonstr-github-2.png" />](https://eurico-moutinho.github.io)
 [<img align="left" alt="Twitter" width="26px" src="https://raw.githubusercontent.com/johan/svg-cleanups/5bac1ce84167c62770c481146e3511d22a2931c5/logos/twitter.svg" />](https://twitter.com/YuriYung)
 [<img align="left" alt="Linkedin" width="26px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" />](https://www.linkedin.com/in/eurico-yung-moutinho/)
 
