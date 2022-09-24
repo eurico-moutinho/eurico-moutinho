@@ -14,6 +14,12 @@
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />](https://nodejs.org/)
 [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />](https://www.mongodb.com/)
 [<img align="left" alt="Typescript" width="26px" src="https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/typescript/typescript.png" />](https://www.typescriptlang.org)
+<br/>
+<h2></h2>
+
+### 💬 Get in Touch
+[<img align="left" alt="Twitter" width="26px" src="https://raw.githubusercontent.com/johan/svg-cleanups/5bac1ce84167c62770c481146e3511d22a2931c5/logos/twitter.svg" />](https://twitter.com/YuriYung)
+[<img align="left" alt="Linkedin" width="26px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" />](https://www.linkedin.com/in/eurico-yung-moutinho/)
 
 <!--
 **eurico-moutinho/eurico-moutinho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
