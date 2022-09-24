@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### I'm Eurico Moutinho
-<h2>Web developer</h2>
+<h3>Web developer</h3>
 
 - 🌱 I’m currently improving my skills in programming
 
