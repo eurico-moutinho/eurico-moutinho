@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 ### I'm Eurico Moutinho
-#### Web developer
----
+<h2>Web developer</h2>
+
 - 🌱 I’m currently improving my skills in programming
 
 ### 🔨 My Development Toolbelt
